@@ -1,0 +1,10 @@
+flask
+flask-cors
+beautifulsoup4
+requests
+google-generativeai
+sentence-transformers
+pinecone-client
+python-dotenv
+waitress
+gunicorn
